@@ -3,14 +3,14 @@
 
 <h2 align="center">Hi there, I'm Daner</h2>
 
-<h3 align="center"> ## 🌐 Socials: </h3>
+<h3 align="center">🌐 Socials: </h3>
 <p align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/daner-dev-8469672b6/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-<h3 align="center"> ## 💻 Tech Stack: </h3>
+<h3 align="center">💻 Tech Stack: </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -26,7 +26,7 @@
 </p>
 
 
-<h3 align="center"> ## 📊 GitHub Stats: </h3>
+<h3 align="center">📊 GitHub Stats: </h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DAnDev-a&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </p>
@@ -38,13 +38,12 @@
 </p>
 
 
-<h3 align="center"> ### ✍️ Random Dev Quote</h3>
+<h3 align="center">✍️ Random Dev Quote</h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
-### 🔝 Top Contributed Repo
-<h3 align="center"> ### 🔝 Top Contributed Repo</h3>
+<h3 align="center"> 🔝 Top Contributed Repo</h3>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=DAnDev-a&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
