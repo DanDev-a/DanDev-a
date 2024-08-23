@@ -3,7 +3,7 @@
 
 <h2 align="center">Hi there, I'm Daner</h2>
 
-## 🌐 Socials:
+<h3 align="center"> ## 🌐 Socials: </h3>
 <p align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/daner-dev-8469672b6/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -25,7 +25,8 @@
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
 </p>
 
-## 📊 GitHub Stats:
+
+<h3 align="center"> ## 📊 GitHub Stats: </h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DAnDev-a&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </p>
@@ -36,12 +37,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAnDev-a&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
-### ✍️ Random Dev Quote
+
+<h3 align="center"> ### ✍️ Random Dev Quote</h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
 ### 🔝 Top Contributed Repo
+<h3 align="center"> ### 🔝 Top Contributed Repo</h3>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=DAnDev-a&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
