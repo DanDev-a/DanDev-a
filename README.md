@@ -12,7 +12,7 @@
 # 📊 GitHub Stats:
 <a href="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"><br/>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=DAnDev-a&theme=tokyonight&hide_border=true"><br/>
-![](<a href="https://github-readme-streak-stats.herokuapp.com/?user=DAnDev-a&theme=tokyonight&hide_border=true">)
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=DAnDev-a&theme=tokyonight&hide_border=true">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
