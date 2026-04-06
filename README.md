@@ -23,7 +23,7 @@
 
 ## 🚀 What I Build
 
-<img align="right" src="https://skillicons.dev/icons?i=ts,js,python,kotlin,react,nodejs,fastapi,postgres,supabase,git&perline=7" />
+<img align="right" src="https://skillicons.dev/icons?i=ts,js,python,kotlin,react,astro,nodejs,fastapi,postgres,supabase,git&perline=7" />
 
 * 💬 WhatsApp bots for businesses
 * 🧠 AI-powered systems
